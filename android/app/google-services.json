@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253612509903",
+    "project_id": "pay-boletos-8d58e",
+    "storage_bucket": "pay-boletos-8d58e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253612509903:android:269262f900b2e67e62c5ba",
+        "android_client_info": {
+          "package_name": "br.com.gabrielpalhares.payboletos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253612509903-lgih8vagiigu7bk8gjgub8pqcjklq031.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.gabrielpalhares.payboletos",
+            "certificate_hash": "4055942122b615b78f2cf51182dba5c86e17cc9c"
+          }
+        },
+        {
+          "client_id": "253612509903-3jjucoq8062qriq9m3rlag5bem2t4eka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsERou_zbtzc_FSwmlVugAmTR8Inh28Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253612509903-3jjucoq8062qriq9m3rlag5bem2t4eka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
